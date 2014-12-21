@@ -12,10 +12,5 @@ stashing the changes@33
 test1
 test2
 test3
-<<<<<<< HEAD
 +++++++++++++Edited by Jenkins++++++++++++++++++++
 testing merge conflict
-=======
-*****************Checking rasi696 conflick***************
-merge conflict
->>>>>>> 022875cf287c8a8fef8891b0b6e11658c80e5552
