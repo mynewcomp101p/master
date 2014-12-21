@@ -12,3 +12,5 @@ stashing the changes@33
 test1
 test2
 test3
++++++++++++++Edited by Jenkins++++++++++++++++++++
+testing merge conflict
